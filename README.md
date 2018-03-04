@@ -2,13 +2,13 @@
 
 Yet another Redis extension for Flask. `Flask-Webhook` makes use of Flask Blueprints and allows easy creation of application webhooks.
 
-[![Latest Version](https://pypip.in/version/Flask-Webhook/badge.png)]
+[![Latest Version](https://img.shields.io/pypi/v/Flask-Webhook.svg)]
 (https://pypi.python.org/pypi/Flask-Webhook/)
-[![Downloads](https://pypip.in/download/Flask-Webhook/badge.png)]
+[![Downloads](https://img.shields.io/pypi/dm/Flask-Webhook.svg)]
 (https://pypi.python.org/pypi/Flask-Webhook/)
-[![Download format](https://pypip.in/format/Flask-Webhook/badge.png)]
+[![Download format](https://img.shields.io/pypi/format/Flask-Webhook.svg)]
 (https://pypi.python.org/pypi/Flask-Webhook/)
-[![License](https://pypip.in/license/Flask-Webhook/badge.png)]
+[![License](https://img.shields.io/pypi/l/Flask-Webhook.svg)]
 (https://pypi.python.org/pypi/Flask-Webhook/)
 
 
